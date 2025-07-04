@@ -1,0 +1,6 @@
+info:
+  foo: bar
+database:
+  url: jdbc:oracle:thin:@//10.10.100.132:1532/pstst
+  username: PSDBA
+  password: test$abdps
